@@ -1,4 +1,4 @@
-# 🏢  Application Mokbar- Générateur de QR Code s'authentifier plus facilement
+# 🏢  Application Mokbar- Générateur de QR Code permettant de s'authentifier plus facilement
 
 ![Logo de l'entreprise](https://www.ericmilliard.com/wp-content/uploads/2017/02/l-oreal-luxe.jpg)
 
@@ -29,7 +29,7 @@ Ce projet est construit en **Python** avec **Tkinter** pour l'interface graphiqu
 
 Vous pouvez trouver une version en Auto IT qui utilise l'API https://chart.googleapis.com/chart?chs=50x50&cht=qr&chl= 
 
-La version auto IT est compilé en .exe et permet une éxécution et l'impression sur une imprimante zebra zm-400 à impression thermique, le script zebra un gérer par un driver généric text qui permet l'agencement de l'étiquette d'impression.
+La version auto IT est compilé en .exe et permet une éxécution et l'impression sur une imprimante zebra zm-400 à impression thermique, le script zebra est retranscrit et gérer par un driver généric-text qui permet l'agencement de l'étiquette d'impression.
 
 ### 🔧 Installation des dépendances
 
