@@ -50,8 +50,8 @@
 
 Global $Z_Ident, $H_Ident, $W_Zone, $MotDePasse, $Identifiant, $Lib_Nom
 
-Global $INSTANCE_SQL 	= 'FRROYESQL01P'
-Global $NOM_BDD 		= 'APPLI_CHARIOT'
+Global $INSTANCE_SQL 	= 'SERVEUR'
+Global $NOM_BDD 		= 'DATA_BASE'
 
 
 $Version_prog = "V0.02"
